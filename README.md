@@ -19,6 +19,10 @@ Enquanto um time de desenvolvimento será responsável pelo aplicativo mobile, o
 
 O layout da aplicação mobile está disponível neste link: <a href="https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med">Figma</a>
 
+<p align="center">
+    <img src="assets/designer voll.med.png" alt="IMG-API-MED" width="100%" height="100%">
+</p>
+
 ---
 
 ## 📄 Documentação
