@@ -53,3 +53,26 @@ Projeto desenvolvido por [Alura](https://www.alura.com.br) e utilizado nos curso
 Instrutor: [Rodrigo Ferreira](https://cursos.alura.com.br/user/rodrigo-ferreira) 
 
 ---
+
+# 🎓 Link do Certificado de Conclusão
+
+## Formação: [JAVA E SPRING BOOT T4 - ONE](https://cursos.alura.com.br/user/eduardo-roqueamaral09/degree-spring-framework-turma4-one-523741/certificate) 
+
+---
+
+##  🐠 Aluno
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://github.com/Truefenix">
+<img src="https://avatars.githubusercontent.com/u/94227038?s=400&u=0c061da14bb3c2f5bf9de8467443f49d7068c365&v=4" width="150px;" alt="Truefenix image" />
+<br />
+<sub><b>Eduardo-Roque</b></sub>
+</a>
+</td>
+</tr>
+</table>
+
+<h4 align="center">
+By<a href="https://github.com/Truefenix" target="_blank"> Eduardo-Roque </a>🐠
+</h4>
