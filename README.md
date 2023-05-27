@@ -56,7 +56,7 @@ Instrutor: [Rodrigo Ferreira](https://cursos.alura.com.br/user/rodrigo-ferreira)
 
 # 🎓 Link do Certificado de Conclusão
 
-## Formação: [JAVA E SPRING BOOT T4 - ONE](https://cursos.alura.com.br/user/eduardo-roqueamaral09/degree-spring-framework-turma4-one-523741/certificate) 
+## Formação: [JAVA E SPRING BOOT T4 - ONE](https://cursos.alura.com.br/degree/certificate/331b9a74-2655-4d29-a89c-bd5e5091158d) 
 
 ---
 
